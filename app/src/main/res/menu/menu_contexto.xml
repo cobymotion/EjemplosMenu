@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/contexto1"
+        android:title="Opcion 1"
+        android:icon="@android:drawable/ic_menu_camera"/>
+
+    <item android:id="@+id/contexto2"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:title="Opcion 2"/>
+
+
+</menu>

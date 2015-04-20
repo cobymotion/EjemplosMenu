@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:miapp="http://schemas.android.com/apk/res-auto"
+      >
+
+    <item android:id="@+id/simple1"
+          android:title="Manda Saludo"
+          android:icon="@android:drawable/ic_menu_call"
+          miapp:showAsAction="always"
+        />
+
+    <item android:id="@+id/simple2"
+          android:title="Abrir actividad"
+          android:icon="@android:drawable/ic_menu_camera"
+          miapp:showAsAction="withText"/>
+
+
+
+
+</menu>
